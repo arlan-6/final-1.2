@@ -1,0 +1,5 @@
+@media only sceen and (max-with: 520px){
+    div.header{
+        display: none;
+    }
+}
